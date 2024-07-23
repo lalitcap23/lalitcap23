@@ -1,8 +1,6 @@
-[![MasterHead](https://dribbble.com/chipp/collections/572323-coding-gifs)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Lalit</h1>
 <h3 align="center">A passionate blockchain and web2 developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://www.pinterest.com/pin/coder-gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw03Wbpqy8Fg6v6YKTuYaEJy&ust=1721434077465000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOiI5-fnsYcDFQAAAAAdAAAAABAJ)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitcap23&label=Profile%20views&color=0e75b6&style=flat" alt="lalitcap23" /> </p>
 
