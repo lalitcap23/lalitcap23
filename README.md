@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Lalit</h1>
-<h3 align="center">A passionate blockchain and web2 developer from India</h3>
-
+<h3 align="center">A passionate blockchain and web2 developer from India.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitcap23&label=Profile%20views&color=0e75b6&style=flat" alt="lalitcap23" /> </p>
 
 <p align="left"> <a href="https://twitter.com/lalitcap" target="blank"><img src="https://img.shields.io/twitter/follow/lalitcap?logo=twitter&style=for-the-badge" alt="lalitcap" /></a> </p>
