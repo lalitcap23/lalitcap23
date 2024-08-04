@@ -5,11 +5,12 @@
 
 <p align="left"> <a href="https://twitter.com/lalitcap" target="blank"><img src="https://img.shields.io/twitter/follow/lalitcap?logo=twitter&style=for-the-badge" alt="lalitcap" /></a> </p>
 
-- 🔭 I’m currently working on **project**
+
+- 🔭 I’m currently working on **Dapp project**
 
 - 🌱 I’m currently learning **reactjs**
 
-- 💬 Ask me about **solidity, js ,C++**
+- 💬 Ask me about **solidity, js ,C++* *
 
 - 📫 How to reach me **Lalitrajput232002@gmail.com**
 
