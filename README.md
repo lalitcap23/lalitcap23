@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://twitter.com/lalitcap" target="blank"><img src="https://img.shields.io/twitter/follow/lalitcap?logo=twitter&style=for-the-badge" alt="lalitcap" /></a> </p>
 
 
-- 🔭 I’m currently working on **Dapp project**
+- 🔭 I’m currently working on **web-wallet**
 
-- 🌱 I’m currently learning **node js*
+- 🌱 I’m currently learning **next js*
 
 - 💬 Ask me about **solidity, js ,C++ ,react**
 
