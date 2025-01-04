@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/lalitcap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lalitcap" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lalit rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lalit rajput" height="30" width="40" /></a>
-<a href="https://instagram.com/lalit_rajput23200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lalit_rajput23200" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/lalitcap23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lalitcap23" height="30" width="40" /></a>
 </p>
 
