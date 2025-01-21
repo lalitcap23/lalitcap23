@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **something**
 
 
-- 💬 Ask me about **solidity, js ,C++ ,react**
+- 💬 Ask me about **solidity, js ,C++ ,react,rust **
 
 - 📫 How to reach me **Lalitrajput232002@gmail.com**
 
