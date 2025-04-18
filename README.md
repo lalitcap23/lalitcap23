@@ -2,7 +2,7 @@
 <h3 align="center">Blockchain Developer | Web Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Blockchain+Enthusiast;Full+Stack+Developer;Smart+Contract+Engineer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Blockchain+Enthusiast;Full+Stack+Developer;;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -28,6 +28,8 @@
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+    <img src="https://img.shields.io/badge/Node-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Node" />
+
   <!-- Web Technologies -->
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
