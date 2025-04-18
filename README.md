@@ -72,14 +72,3 @@
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalitcap23&show_icons=true&theme=tokyonight&layout=compact" alt="Most used languages" />
 </p>
-
-## 🏆 Achievements
-
-- Developed and deployed several web2blockchain applications
-- Contributed to open-source 
-  
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Wave Footer" />
-</p>
