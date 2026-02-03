@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-- 🎯 Currently building an **on-chain gambling game**
+- 🎯 Currently building an **crypto-polymarket**
 - 💻 Skilled in **Solidity, Rust, JavaScript, TypeScript, C++, React, Next.js, MongoDB**
 - 🔍 Always exploring the evolving **Web3 ecosystem**
 - ✉️ Reach me at: **Lalitrajput232002@gmail.com**
