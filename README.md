@@ -1,4 +1,4 @@
-<h1 align="center"> Lalit Rajput</h1>
+<h1 align="center"> Lalit </h1>
 <h3 align="center">Solana Engineer • Rust dev • Full Stack Builder</h3>
 
 <p align="center">
@@ -39,7 +39,7 @@
 - PDAs, CPI, account design
 - Jito / transaction bundles
 
-### 🌐 Full Stack
+###  Full Stack
 - Next.js / React
 - TypeScript / JavaScript
 - Node.js APIs
@@ -52,12 +52,12 @@
 
 ---
 
-## 🧩 What I Care About
+##  What I Care About
 
 - Low-latency systems
 - Deterministic execution
 - Clean program architecture
-- Real-world DeFi problems (not toy dApps)
+- Real-world DeFi problems 
 
 ---
 
