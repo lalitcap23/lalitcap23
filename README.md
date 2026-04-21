@@ -2,27 +2,27 @@
 <h3 align="center">Solana Engineer • Rust dev • Full Stack Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Solana+Rust+Engineer;DeFi+%2F+Execution+Systems;Building+Low-Latency+On-Chain+Infra" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Solana+Rust+Engineer;DeFi+%2F+Execution+Systems;" />
 </p>
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-- ⚙️ Building **high-performance Solana systems** (DeFi, execution engines, infra)
+- ⚙️ Building **high-performance Solana systems** (DeFi, execution engines,)
 - 🦀 Writing **Rust-based programs** using Anchor & low-level optimizations
-- 🧩 Focused on **order flow, MEV, matching engines, and transaction ordering**
+- 🧩 Focused on **order flow, matching engines, and transaction ordering**
 - 🌐 Also build **full-stack apps (Next.js + APIs + DB)** around on-chain logic
 
 ---
 
 ##  Current Focus
 
-- 🧪 **Maker Protection Engine (Solana)**  
+- **Maker Protection Engine (Solana)**  
   → Ensuring cancel txns execute before taker trades  
   → Custom scheduler + Jito bundle ordering  
 
-- 🧠 Exploring:
+-  Exploring:
   - Transaction ordering (Jito, bundles)
   - Compute optimization
   - Zero-copy / account design
