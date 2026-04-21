@@ -27,7 +27,6 @@
   - Compute optimization
   - Zero-copy / account design
   - DeFi primitives
-
 ---
 
 ## ⚒️ Tech Stack
@@ -45,11 +44,9 @@
 - Node.js APIs
 - MongoDB (Mongoose)
 
-### 🛠️ Systems & Tools
+###  Systems & Tools
 - Git / Linux
-- Zod (validation)
-- WebSockets / event-driven systems
-
+- docker
 ---
 
 ##  What I Care About
